@@ -1,3 +1,5 @@
+This project aims to perform binary video classification, where videos are classified into one of two categories. The goal is to develop a machine learning model that can accurately classify videos based on their content.
+
 Datasets: https://www.kaggle.com/datasets/mohamedmustafa/real-life-violence-situations-dataset/code
 use this dataset to train or replace with your suitable datasets.
 
